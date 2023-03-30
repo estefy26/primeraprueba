@@ -1,2 +1,1 @@
-# primeraprueba
-mi primer repositario
+ repositario
